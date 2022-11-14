@@ -20,7 +20,7 @@ The following GitHub repo url is:
 https://github.com/tarekmn/19-pwa-text-editor
 
 The deployed url is:
-X
+https://19-pwa-text-editor-production.up.railway.app/
 
 In addition, I included screenshot below:
 
